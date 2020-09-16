@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		lAQNyTU1m7lxTU4gCJgmKki/z2M=
+		J02Wrzi+FSJzs9AJPGpgHFSeyqc=
 		</data>
 		<key>Headers/DefaultUIConst.h</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		kx673TCCOmbTnvDAJ3zUEQ+EFLA=
+		tAMkw5KwBa3CGowrDAxbwEb8KnE=
 		</data>
 		<key>Modules/VOGOPlayerUI.swiftmodule/Project/arm.swiftsourceinfo</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/VOGOPlayerUI.swiftmodule/arm.swiftmodule</key>
 		<data>
-		zDqS9srIKXSh2U2YJKJXhUBiEAg=
+		Py+FfLsbFGL4eDdYjz8oDiactkc=
 		</data>
 		<key>Modules/VOGOPlayerUI.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/VOGOPlayerUI.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Ums/LjDwh26mozl24k7HG/N5Yo0=
+		cvlj2oYwm9aMfUeHE2gXlNA7Ack=
 		</data>
 		<key>Modules/VOGOPlayerUI.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Modules/VOGOPlayerUI.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Ums/LjDwh26mozl24k7HG/N5Yo0=
+		cvlj2oYwm9aMfUeHE2gXlNA7Ack=
 		</data>
 		<key>Modules/VOGOPlayerUI.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Modules/VOGOPlayerUI.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		zDqS9srIKXSh2U2YJKJXhUBiEAg=
+		Py+FfLsbFGL4eDdYjz8oDiactkc=
 		</data>
 		<key>Modules/VOGOPlayerUI.swiftmodule/armv7.swiftdoc</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Modules/VOGOPlayerUI.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		zDqS9srIKXSh2U2YJKJXhUBiEAg=
+		Py+FfLsbFGL4eDdYjz8oDiactkc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -142,71 +142,71 @@
 		</data>
 		<key>VGPlayer.storyboardc/49d-E7-7Wc-view-sQh-U1-QDO.nib/objects-11.0+.nib</key>
 		<data>
-		ltJwqFo1t7JMWSetxtuQ8ZMVBzw=
+		qBk7YeROXbbgVdYJh5YwmGOtzh0=
 		</data>
 		<key>VGPlayer.storyboardc/49d-E7-7Wc-view-sQh-U1-QDO.nib/runtime.nib</key>
 		<data>
-		+uDL2h2wQ9iqaS8ecp333w+g4HI=
+		pe/5roAPPz0S017XGDEtegu/Clc=
 		</data>
 		<key>VGPlayer.storyboardc/Info.plist</key>
 		<data>
-		LLGUMvxAdQJrtaEmzXXMVYGb0ao=
+		me4oa7l4SzrCxZzZ5y6A8RM556k=
 		</data>
 		<key>VGPlayer.storyboardc/PDF.nib/objects-11.0+.nib</key>
 		<data>
-		tcpJoTk+I0KRSJV+qo3IKcvJuHc=
+		t5L6BSAcOaiEFW8LMGu1MDxihH8=
 		</data>
 		<key>VGPlayer.storyboardc/PDF.nib/runtime.nib</key>
 		<data>
-		5Zr9dGGX9hxjgm2NpvHaTgJRJFg=
+		MqLiEnf3FX9hGZMQVL9zDTZ2YYM=
 		</data>
 		<key>VGPlayer.storyboardc/VGCGUViewController.nib/objects-11.0+.nib</key>
 		<data>
-		anlcgiNJnArahbzk5FiYcgOvzDU=
+		Z5f23hFJkUC5YcKtiT2S2Yzypzs=
 		</data>
 		<key>VGPlayer.storyboardc/VGCGUViewController.nib/runtime.nib</key>
 		<data>
-		VqmWa+4XcpOPDuvxZoy869y81MM=
+		rLnvdy9AqNFE8XDQOAmksFDczeE=
 		</data>
 		<key>VGPlayer.storyboardc/VGController.nib/objects-11.0+.nib</key>
 		<data>
-		FC/sWZR4hBAYkR8TZCrmbmTdq0k=
+		1e2J1gnXG2zl4BOzOhqQ/mHWosQ=
 		</data>
 		<key>VGPlayer.storyboardc/VGController.nib/runtime.nib</key>
 		<data>
-		jGwIYhhXTx23DK2CeIqWh1QHWGc=
+		HGhRFTMSEn3aL3fB+iYV9Zz5zzU=
 		</data>
 		<key>VGPlayer.storyboardc/VGLoginViewController.nib/objects-11.0+.nib</key>
 		<data>
-		dz2GY9WLMLpctA/Fc/ip9RYXgCg=
+		ymnsdGlOTXdqAg7a+ojE4/q6ogU=
 		</data>
 		<key>VGPlayer.storyboardc/VGLoginViewController.nib/runtime.nib</key>
 		<data>
-		USGr0DZsUlWhizeQOPQy8WjxXYc=
+		RQyEvV0eWQa6zN8/+b7OFgF62Dc=
 		</data>
 		<key>VGPlayer.storyboardc/Waj-0v-0Ue-view-niO-H5-QwQ.nib/objects-11.0+.nib</key>
 		<data>
-		1MqbOCfWeoOv2FpSBrYBJVimHwM=
+		8g5hgcICIgL+CoYVCL6f7tUAa1o=
 		</data>
 		<key>VGPlayer.storyboardc/Waj-0v-0Ue-view-niO-H5-QwQ.nib/runtime.nib</key>
 		<data>
-		occ/99lZ41yv3hFTu6tLm3p84z8=
+		OZn5nxyoyb6O2fVy1sFFsgx9yqA=
 		</data>
 		<key>VGPlayer.storyboardc/l6C-ML-vP2-view-uct-GE-Di2.nib/objects-11.0+.nib</key>
 		<data>
-		G0vN+Bm7ug6qrroFpy9LVO/bdas=
+		fpW9YgA98VsY1G4c3rho1nRNr0E=
 		</data>
 		<key>VGPlayer.storyboardc/l6C-ML-vP2-view-uct-GE-Di2.nib/runtime.nib</key>
 		<data>
-		+vLiQllqLU8opBlzCJFLjIsy3t4=
+		yENTTo5OtXT7K2hBjqSLssYcOOU=
 		</data>
 		<key>VGPlayer.storyboardc/v30-mK-CdS-view-kgj-lc-C9l.nib/objects-11.0+.nib</key>
 		<data>
-		Arhk9HgLyTHLVKFw1uAira/iRp4=
+		hPRRgCLrSaXLhqX/UQNud5cf5Oc=
 		</data>
 		<key>VGPlayer.storyboardc/v30-mK-CdS-view-kgj-lc-C9l.nib/runtime.nib</key>
 		<data>
-		agRFyluT93kV4tg6VsKCl2fCRpI=
+		6dD2lhDSKhFlHx3q507l1QdUQZk=
 		</data>
 		<key>de.lproj/CGU.htm</key>
 		<dict>
@@ -323,11 +323,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lAQNyTU1m7lxTU4gCJgmKki/z2M=
+			J02Wrzi+FSJzs9AJPGpgHFSeyqc=
 			</data>
 			<key>hash2</key>
 			<data>
-			6f9KJpAiMcvhr8I3pr5eD3J4l1RL1yUXqrjSOhuNJQY=
+			9+wXPqvUFPVLSWYkfKh1T7cG12HFpTuE4aoTOKMj9yQ=
 			</data>
 		</dict>
 		<key>Headers/DefaultUIConst.h</key>
@@ -521,11 +521,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zDqS9srIKXSh2U2YJKJXhUBiEAg=
+			Py+FfLsbFGL4eDdYjz8oDiactkc=
 			</data>
 			<key>hash2</key>
 			<data>
-			LbjH8mxmStCh3HOA3+Yem5HolAKEW4hYLTWqmtqlbMw=
+			wpDGnYX3fvGYQh/sdTsjA/TaTSFvX/Fv0jzTTmQGep0=
 			</data>
 		</dict>
 		<key>Modules/VOGOPlayerUI.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -554,11 +554,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ums/LjDwh26mozl24k7HG/N5Yo0=
+			cvlj2oYwm9aMfUeHE2gXlNA7Ack=
 			</data>
 			<key>hash2</key>
 			<data>
-			uROtTwaywBksddlChUPNwABz5yzDvNHBWPV8/Hi46hg=
+			OFWLpkVjEid7xTIKhGp01p+BCkEwpX/6gQLvQhaAbwA=
 			</data>
 		</dict>
 		<key>Modules/VOGOPlayerUI.swiftmodule/arm64.swiftdoc</key>
@@ -587,11 +587,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ums/LjDwh26mozl24k7HG/N5Yo0=
+			cvlj2oYwm9aMfUeHE2gXlNA7Ack=
 			</data>
 			<key>hash2</key>
 			<data>
-			uROtTwaywBksddlChUPNwABz5yzDvNHBWPV8/Hi46hg=
+			OFWLpkVjEid7xTIKhGp01p+BCkEwpX/6gQLvQhaAbwA=
 			</data>
 		</dict>
 		<key>Modules/VOGOPlayerUI.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -620,11 +620,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zDqS9srIKXSh2U2YJKJXhUBiEAg=
+			Py+FfLsbFGL4eDdYjz8oDiactkc=
 			</data>
 			<key>hash2</key>
 			<data>
-			LbjH8mxmStCh3HOA3+Yem5HolAKEW4hYLTWqmtqlbMw=
+			wpDGnYX3fvGYQh/sdTsjA/TaTSFvX/Fv0jzTTmQGep0=
 			</data>
 		</dict>
 		<key>Modules/VOGOPlayerUI.swiftmodule/armv7.swiftdoc</key>
@@ -653,11 +653,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zDqS9srIKXSh2U2YJKJXhUBiEAg=
+			Py+FfLsbFGL4eDdYjz8oDiactkc=
 			</data>
 			<key>hash2</key>
 			<data>
-			LbjH8mxmStCh3HOA3+Yem5HolAKEW4hYLTWqmtqlbMw=
+			wpDGnYX3fvGYQh/sdTsjA/TaTSFvX/Fv0jzTTmQGep0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -686,187 +686,187 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ltJwqFo1t7JMWSetxtuQ8ZMVBzw=
+			qBk7YeROXbbgVdYJh5YwmGOtzh0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ut4AWjI5y3NC9OOb5HV69VPrWUJNYFSUx2sfi+V5DeQ=
+			ADo0WbiCUKvsygGoqtswEuPad7JTfT6ezNRumoJ557c=
 			</data>
 		</dict>
 		<key>VGPlayer.storyboardc/49d-E7-7Wc-view-sQh-U1-QDO.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+uDL2h2wQ9iqaS8ecp333w+g4HI=
+			pe/5roAPPz0S017XGDEtegu/Clc=
 			</data>
 			<key>hash2</key>
 			<data>
-			euX10sQjjHjGCa3jUxP+4aayc1TQOhkg3cbf3RCEiMc=
+			DyBTN7ckoFrLqyiMaBHfcW9naLdWoDLhZ9QZFMzYcjM=
 			</data>
 		</dict>
 		<key>VGPlayer.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LLGUMvxAdQJrtaEmzXXMVYGb0ao=
+			me4oa7l4SzrCxZzZ5y6A8RM556k=
 			</data>
 			<key>hash2</key>
 			<data>
-			FBl4As8nQ9fEBZpWSMwybyL99KvZEZZ972a9ArErxRk=
+			TLawjcAkTh2UtsDmExZwPJh3PE7h/yM+Efcn157agiE=
 			</data>
 		</dict>
 		<key>VGPlayer.storyboardc/PDF.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tcpJoTk+I0KRSJV+qo3IKcvJuHc=
+			t5L6BSAcOaiEFW8LMGu1MDxihH8=
 			</data>
 			<key>hash2</key>
 			<data>
-			d/f8a5VPrz7q+so8rxzDSZIqSSCyGNsLiNDihNhuitc=
+			vv8EPKHql2fsWjIYnG8rFFk7NP2Ox7B4etlB2DXptQ4=
 			</data>
 		</dict>
 		<key>VGPlayer.storyboardc/PDF.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5Zr9dGGX9hxjgm2NpvHaTgJRJFg=
+			MqLiEnf3FX9hGZMQVL9zDTZ2YYM=
 			</data>
 			<key>hash2</key>
 			<data>
-			xgQJYWwMwVdTvbs2HmAMVVztvJewnvemVznqGy4uHdo=
+			YbobdQFxgPbm3sFIZMrkV51p3LP23eaGhgv0bkAAfE8=
 			</data>
 		</dict>
 		<key>VGPlayer.storyboardc/VGCGUViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			anlcgiNJnArahbzk5FiYcgOvzDU=
+			Z5f23hFJkUC5YcKtiT2S2Yzypzs=
 			</data>
 			<key>hash2</key>
 			<data>
-			tMOifLK7k9pUlUQTFvgXthez30d8WMgEgQ4bPYIIng0=
+			6+g1eAoUihekzhwDG0yDj9lwvmSNKOrviLe4vFOYYZg=
 			</data>
 		</dict>
 		<key>VGPlayer.storyboardc/VGCGUViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VqmWa+4XcpOPDuvxZoy869y81MM=
+			rLnvdy9AqNFE8XDQOAmksFDczeE=
 			</data>
 			<key>hash2</key>
 			<data>
-			eSQ/BZfdi7NBrbc5UUEMMfHknkLv7IGVK+IHoy7kUPA=
+			89NDPTkI8st3UkU/3QyevrvXXkM+hICFevk1IYNN+WI=
 			</data>
 		</dict>
 		<key>VGPlayer.storyboardc/VGController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FC/sWZR4hBAYkR8TZCrmbmTdq0k=
+			1e2J1gnXG2zl4BOzOhqQ/mHWosQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			EgHBhLLe2ENTHnvoDkF5wCtrWek5eogdNz+pCWBgsKk=
+			O1j/T2n+GbHKlM7Ls4avvmEmpk0sixkKpGmreOddY5Y=
 			</data>
 		</dict>
 		<key>VGPlayer.storyboardc/VGController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jGwIYhhXTx23DK2CeIqWh1QHWGc=
+			HGhRFTMSEn3aL3fB+iYV9Zz5zzU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZBvWOZgDjBIXPB8I8WyuZa3FlzGeBE2wPvRKZw5vgiQ=
+			YMDSlEUR/KN1gLxnYosXti+Z3I2cjvpsCGhnkT/+mdU=
 			</data>
 		</dict>
 		<key>VGPlayer.storyboardc/VGLoginViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dz2GY9WLMLpctA/Fc/ip9RYXgCg=
+			ymnsdGlOTXdqAg7a+ojE4/q6ogU=
 			</data>
 			<key>hash2</key>
 			<data>
-			kMNz6A0t9zNO+ArK3S/iP5LmyzP6Po6rd57PTQ+/MtQ=
+			lWczwV5a+HPNOx5q07SzbHWhyef0x8TJwtgFELQxwD4=
 			</data>
 		</dict>
 		<key>VGPlayer.storyboardc/VGLoginViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			USGr0DZsUlWhizeQOPQy8WjxXYc=
+			RQyEvV0eWQa6zN8/+b7OFgF62Dc=
 			</data>
 			<key>hash2</key>
 			<data>
-			hIttjSoeSyijthRwvF8NdWhBKu3xxhShhXS61JWl+1U=
+			mVgzca+YAz6NZwKSd4recZZeP1LSMe9dUX/StQvkDTs=
 			</data>
 		</dict>
 		<key>VGPlayer.storyboardc/Waj-0v-0Ue-view-niO-H5-QwQ.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1MqbOCfWeoOv2FpSBrYBJVimHwM=
+			8g5hgcICIgL+CoYVCL6f7tUAa1o=
 			</data>
 			<key>hash2</key>
 			<data>
-			B5Eb2949WrBK7EVpQv80ml5tAMZEfHTm1Fwo5s9zIQM=
+			SHFts+Z94WA7ciCsCxLCH+Z6C0BctjmPdZSx3Nf3t50=
 			</data>
 		</dict>
 		<key>VGPlayer.storyboardc/Waj-0v-0Ue-view-niO-H5-QwQ.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			occ/99lZ41yv3hFTu6tLm3p84z8=
+			OZn5nxyoyb6O2fVy1sFFsgx9yqA=
 			</data>
 			<key>hash2</key>
 			<data>
-			rkbObKbOliLk9c47S2tJlIuLR7FWDNVPIpLjptrOxD4=
+			hmnUjL1jDsjSiSQc4fdUx8rX/fchKstGhfw8hI5ZzO4=
 			</data>
 		</dict>
 		<key>VGPlayer.storyboardc/l6C-ML-vP2-view-uct-GE-Di2.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G0vN+Bm7ug6qrroFpy9LVO/bdas=
+			fpW9YgA98VsY1G4c3rho1nRNr0E=
 			</data>
 			<key>hash2</key>
 			<data>
-			XGYeoHe4obuXLdMT4KbMwfBQGdmKjEUA8FWlnv2UOq8=
+			OJK3+vJjAOKfcu6Rztm5VIl4w71LR6PgfmD8jib5c1o=
 			</data>
 		</dict>
 		<key>VGPlayer.storyboardc/l6C-ML-vP2-view-uct-GE-Di2.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+vLiQllqLU8opBlzCJFLjIsy3t4=
+			yENTTo5OtXT7K2hBjqSLssYcOOU=
 			</data>
 			<key>hash2</key>
 			<data>
-			3zPKOKRAHzACnBa7Pl+CAV1h6f7RpRoWU57O9Vu1G7g=
+			V0ReGV2f37rFPFuymq4qgotNeQSfKCaNwE/WcmLlpIc=
 			</data>
 		</dict>
 		<key>VGPlayer.storyboardc/v30-mK-CdS-view-kgj-lc-C9l.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Arhk9HgLyTHLVKFw1uAira/iRp4=
+			hPRRgCLrSaXLhqX/UQNud5cf5Oc=
 			</data>
 			<key>hash2</key>
 			<data>
-			zy3X9yXnsRJhesm76yCT13cecRum08ucO/fvYN25UOs=
+			RED/5mtAfuAnkLexKv+xgTG2YnHiPNqjLXLljxaiGWE=
 			</data>
 		</dict>
 		<key>VGPlayer.storyboardc/v30-mK-CdS-view-kgj-lc-C9l.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			agRFyluT93kV4tg6VsKCl2fCRpI=
+			6dD2lhDSKhFlHx3q507l1QdUQZk=
 			</data>
 			<key>hash2</key>
 			<data>
-			/7TZMVxleWNcr1JS2aV/pyX9QKHItLw/aF8H2rDPdkc=
+			m0sN2YJtaX6gN3wqVqPNcE6bV9LB4lMObzHeY9FTDGE=
 			</data>
 		</dict>
 		<key>de.lproj/CGU.htm</key>
