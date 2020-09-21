@@ -20,5 +20,5 @@ FOUNDATION_EXPORT const unsigned char VOGOPlayerUIVersionString[];
 #import <VOGOPlayerUI/VGController.h>
 #import <VOGOPlayerUI/VGToolkit.h>
 #import <VOGOPlayerUI/VGConstant.h>
-#import <VOGOPlayerUI/MBProgressHUD.h>
+#import <VOGOPlayerUI/VGMBProgressHUD.h>
 
